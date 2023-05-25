@@ -1,0 +1,42 @@
+h1{
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+    font-family: 'Play', sans-serif;
+}
+h2{
+    margin-left: 10px;
+    font-family: 'Play', sans-serif;
+}
+.box{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    height: 40vh;
+    justify-content: center;
+    margin: auto;
+}
+#note{
+    width: 50vw;
+    height: 20vh;
+    border-radius: 10px;
+    margin: 4px 5px;
+}
+#yno{
+    width: 50vw;
+    margin: auto;
+    justify-content: center;
+}
+.card{
+    margin: 5px 5px;
+}
+#btn1{
+    width: fit-content;
+    margin: 5px 5px;
+}
+#ShowSec{
+    font-family: 'Play', sans-serif;
+    width: fit-content;
+    margin: 10px auto;
+}
